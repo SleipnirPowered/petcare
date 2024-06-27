@@ -11,25 +11,23 @@ ul {
     color: #363636;
 }
 
-.dogfood {
-    display: flex;
-    justify-content: space-between;
-    margin: 16px 0px 0px;
-}
-
-.geckofoodpics {
-    display: flex;
-    justify-content: space-between;
-    margin: 16px 0px 0px;
-}
-
-.geckofoodvideos {
-    display: flex;
-    justify-content: space-between;
-    margin: 16px 0px 0px;
-}
-
 .millipede {
     text-align: center;
     font-size: large;
+}
+
+.vetinfo {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.probiotics, .geckofoodpics, .geckofoodvideos, .vetprobiotic, .dogfood {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px 0px;
+}
+
+.instructions {
+    text-align: center;
 }
