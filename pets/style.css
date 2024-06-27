@@ -16,3 +16,15 @@ ul {
     justify-content: space-between;
     margin: 16px 0px 0px;
 }
+
+.geckofoodpics {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px 0px;
+}
+
+.geckofoodvideos {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px 0px;
+}
