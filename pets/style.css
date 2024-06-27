@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+}
+
+.logo {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    background-color: #b4b4b4;
+    border-radius: 25px;
+    color: #363636;
+}
+
+.dogfood {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px 0px;
+}
